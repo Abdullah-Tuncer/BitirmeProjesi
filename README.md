@@ -1,1 +1,2 @@
 # BitirmeProjesi
+Proje devam etmektedir.
